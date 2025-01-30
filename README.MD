@@ -199,6 +199,23 @@
   - Integração com ecossistema MS: MS Teams, Xbox Game Pass, Aplicações Android na MS Store;
   - Bastantes melhorias em desempenho e segurança;
 
-## Apple MacOS:
+## Apple Mac OS:
+
+- ### Classic System Mac OS (1984-2001):
+
+  ![Apple Mac OS Classic System 1 image](https://us.v-cdn.net/6029997/uploads/E96SRZJ7PSHE/windows-11-how-to-use-widgets.png)
+
+  Primeira versão: **System 1.0 (1984)** | Última versão: **Mac OS 9 (1999)**
+
+  #### Características principais:
+
+  - Interface Gráfica do Utilizador (GUI): Introdução de uma GUI orientada pelo rato com ícones, janelas e menus;
+  - Sem suporte da Linha de Comandos: Ao contrário do MS-DOS e do Unix, não tinha uma interface de linha de comandos, centrando-se apenas na GUI;
+  - Sistema Operacional com código-fonte fechado;
+  - Orientado para mercado domestico;
+  - Sem suporte Mutli-tarefas: As primeiras versões só podiam executar uma aplicação de cada vez;
+  - Multitasking Cooperativo: introduzido em System 5, mas era instável;
+  - Extensões e Painéis de Controlo: Personalização através de extensões do sistema, levando a conflitos e instabilidade;
+  - Mac OS 9: Na última versão do Mac OS Clássic, foram introduzidas funcionalidades como o suporte multi-utilizador e a proteção de memória baseada em software.
 
 ## Linux:
