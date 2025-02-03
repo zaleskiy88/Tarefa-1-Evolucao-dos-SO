@@ -203,10 +203,10 @@
 
 - ### Classic System Mac OS (1984-2001):
 
-  <img src="./images/appleSystem1.png" alt="Apple Mac OS Classic System 1 image" width="400" height="300"> | <img src="./images/appleSystem4.webp" alt="Apple Mac OS Classic System 4 image" width="400" height="300">
-  <img src="./images/appleSystem6.webp" alt="Apple Mac OS Classic System 6 image" width="400" height="300">
+  <img src="./images/appleSystem1.png" alt="Apple Mac OS Classic System 1 image"  > | <img src="./images/appleSystem4.webp" alt="Apple Mac OS Classic System 4 image"  >
+  <img src="./images/appleSystem6.webp" alt="Apple Mac OS Classic System 6 image"  >
 
-  <img src="./images/appleSystem7.webp" alt="Apple Mac OS Classic System 7 image" width="400" height="300"> | <img src="./images/appleSystem8.png" alt="Apple Mac OS Classic System 8 image" width="400" height="300"> <img src="./images/appleSystem9.webp" alt="Apple Mac OS Classic System 9 image" width="400" height="300">
+  <img src="./images/appleSystem7.webp" alt="Apple Mac OS Classic System 7 image"  > | <img src="./images/appleSystem8.png" alt="Apple Mac OS Classic System 8 image"  > <img src="./images/appleSystem9.webp" alt="Apple Mac OS Classic System 9 image"  >
 
   Primeira versão: **System 1.0 (1984)** | Última versão: **Mac OS 9 (1999)**
 
@@ -223,10 +223,10 @@
 
 - ### Mac OS X (2001-2012):
 
-  <img src="./images/macOS10.webp" alt="Apple Mac OS X 10.0 image" width="400" height="300"> | <img src="./images/macOS10.4.png" alt="Apple Mac OS X 10.4 image" width="400" height="300">
-  <img src="./images/macOS10.5.jpg" alt="Apple Mac OS X 10.5 image" width="400" height="300">
+  <img src="./images/macOS10.webp" alt="Apple Mac OS X 10.0 image"  > | <img src="./images/macOS10.4.png" alt="Apple Mac OS X 10.4 image"  >
+  <img src="./images/macOS10.5.jpg" alt="Apple Mac OS X 10.5 image"  >
 
-  <img src="./images/macOS10.6.webp" alt="Apple Mac OS X 10.6 image" width="400" height="300"> | <img src="./images/macOS10.7.png" alt="Apple Mac OS X 10.7 image" width="400" height="300"> <img src="./images/macOS10.8.webp" alt="Apple Mac OS X 10.8 image" width="400" height="300">
+  <img src="./images/macOS10.6.webp" alt="Apple Mac OS X 10.6 image"  > | <img src="./images/macOS10.7.png" alt="Apple Mac OS X 10.7 image"  > <img src="./images/macOS10.8.webp" alt="Apple Mac OS X 10.8 image"  >
 
   Primeira versão: **Mac OS X 10.0 "Cheetah" (2001)** | Última versão: **Mac OS 10.8 "Mountain Lion" (2012)**
 
@@ -244,8 +244,8 @@
 
 - ### OS X (2012-2016):
 
-  <img src="./images/OSX10.9.png" alt="Apple OS X 10.9 image" width="400" height="300"> | <img src="./images/OSX10.10.jpeg" alt="Apple OS X 10.10 image" width="400" height="300">
-  <img src="./images/OSX10.11.webp" alt="Apple Mac OS X 10.11 image" width="400" height="300">
+  <img src="./images/OSX10.9.png" alt="Apple OS X 10.9 image"  > | <img src="./images/OSX10.10.jpeg" alt="Apple OS X 10.10 image"  >
+  <img src="./images/OSX10.11.webp" alt="Apple Mac OS X 10.11 image"  >
 
   Primeira versão: **OS X 10.9 "Mavericks" (2013)** | Última versão: **OS 10.11 "El Capitan" (2015)**
 
@@ -258,10 +258,10 @@
 
 - ### macOS (2016-Presente):
 
-  <img src="./images/macOS10.12.jpg" alt="Apple macOS X 10.12 image" width="400" height="300"> | <img src="./images/macos10.14.png" alt="Apple OS X 10.14 image" width="400" height="300">
-  <img src="./images/macosCatalina.jpg" alt="Apple Mac OS X 10.15 image" width="400" height="300">
+  <img src="./images/macOS10.12.jpg" alt="Apple macOS X 10.12 image"  > | <img src="./images/macos10.14.png" alt="Apple OS X 10.14 image"  >
+  <img src="./images/macosCatalina.jpg" alt="Apple Mac OS X 10.15 image"  >
 
-  <img src="./images/macOS11.png" alt="Apple Mac OS X 11.0 image" width="400" height="300"> | <img src="./images/macOS13.png" alt="Apple Mac OS X 13 image" width="450" height="300"> <img src="./images/macOS14.png" alt="Apple Mac OS 14 image" width="400" height="300">
+  <img src="./images/macOS11.png" alt="Apple Mac OS X 11.0 image"  > | <img src="./images/macOS13.png" alt="Apple Mac OS X 13 image" width="450" height="300"> <img src="./images/macOS14.png" alt="Apple Mac OS 14 image"  >
 
   Primeira versão: **macOS X 10.12 "Sierra" (2016)** | Corrente versão: **macOS 14 "Sonoma" (2015)**
 
