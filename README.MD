@@ -224,7 +224,7 @@
 - ### Mac OS X (2001-2012):
 
   <img src="./images/macOS10.webp" alt="Apple Mac OS X 10.0 image" width="400" height="300"> | <img src="./images/macOS10.4.png" alt="Apple Mac OS X 10.4 image" width="400" height="300">
-  <img src="./images/macOS10.5.webp" alt="Apple Mac OS X 10.5 image" width="400" height="300">
+  <img src="./images/macOS10.5.jpg" alt="Apple Mac OS X 10.5 image" width="400" height="300">
 
   <img src="./images/macOS10.6.webp" alt="Apple Mac OS X 10.6 image" width="400" height="300"> | <img src="./images/macOS10.7.png" alt="Apple Mac OS X 10.7 image" width="400" height="300"> <img src="./images/macOS10.8.webp" alt="Apple Mac OS X 10.8 image" width="400" height="300">
 
@@ -275,4 +275,107 @@
   - Integração mais profunda com o iOS: funcionalidades como o Universal Control, Sidecar (iPad como segundo ecrã) e melhorias no AirDrop;
   - Fim do iTunes: O iTunes foi substituído por aplicações dedicadas para música, podcasts e TV.
 
-## Linux:
+## Linux distribuição Kali Linux:
+
+- ### Kali Linux 1.0 (Lançamento Inicial 2013)
+
+  <img src="./images/kali1.0.jpg" alt="Kali Linux 1.0">
+
+  #### Características principais:
+
+  - Substituição do BackTrack Linux;
+  - Baseado no Debian, ao contrário do BackTrack, que era baseado no Ubuntu;
+  - Interface padrão GNOME;
+  - Suporte a mais de 300 ferramentas de segurança;
+  - Maior foco em automação e suporte a scripts;
+
+- ### Kali Linux 2.0 ("Kali Sana" 2015)
+
+  <img src="./images/kali2.0.png" alt="Kali Linux 2.0">
+
+  #### Características principais:
+
+  - Interface gráfica reformulada, adotando GNOME 3;
+  - Atualizações contínuas do sistema (modelo rolling release);
+  - Melhor compatibilidade com hardware moderno;
+  - Suporte a mais de 300 ferramentas de segurança;
+  - Melhorias na usabilidade e na interface gráfica;
+  - Kernel atualizado para maior suporte a dispositivos de rede sem fio;
+
+- ### Kali Rolling Release 2016.1 (Atualização Contínua 2016)
+
+  <img src="./images/kali2016.1.png" alt="Kali Rolling Release 2016.1">
+
+  #### Características principais:
+
+  - Mudança para um modelo de atualização contínua (Rolling Release);
+  - Sempre atualizado com as versões mais recentes de ferramentas de pentest;
+  - Melhor suporte a hardware moderno;
+  - Atualizações regulares de segurança;
+
+- ### Kali Linux 2019.4 (Introdução do Kali Undercover Mode 2019)
+
+  <img src="./images/kali2019.4undercover.gif" alt="Kali Linux 2019.4">
+
+  #### Características principais:
+
+  - Introdução do Kali Undercover Mode (modo que faz o Kali parecer o Windows 10 para discrição);
+  - Introdução do suporte de PowerShell;
+  - Melhorias no suporte a dispositivos com arquitetura ARM;
+  - Implementação do Xfce como o ambiente de desktop padrão (mais leve que GNOME);
+
+- ### Kali Linux 2020.1 (Mudanças na Conta Root 2020)
+
+  <img src="./images/kali2020.1.png" alt="Kali Linux 2020.1">
+
+  #### Características principais:
+
+  - A conta root por padrão foi desativada (agora exige login com um utilizador normal);
+  - Novo instalador, mais amigável;
+  - Melhorias na personalização da interface;
+  - Maior suporte para arquiteturas ARM e dispositivos móveis;
+
+- ### Kali Linux 2020.4 (Integração com ZSH 2020)
+
+  <img src="./images/kali2020.4.jpg" alt="Kali Linux 2020.1">
+
+  #### Características principais:
+
+  - Shell padrão mudou para ZSH em vez de Bash;
+  - Melhor suporte para sistemas ARM;
+  - Melhorias no Kali Undercover Mode;
+  - Introdução de novas ferramentas pentest;
+
+- ### Kali Linux 2021.1 (Melhorias em Hardware e Ferramentas 2021)
+
+  <img src="./images/kali2021.1.png" alt="Kali Linux 2021.1">
+
+  #### Características principais:
+
+  - Novo Kali Linux Purple (voltado para defesa cibernética), adição de novas ferramentas populares de segurança;
+  - Melhorias na interface Xfce e KDE, atualização do tema visual e interface mais moderna;
+  - Melhor suporte para Apple M1 (arquitetura ARM);
+  - Melhorias na compatibilidade com WSL (Windows Subsystem for Linux);
+  - Melhorias na instalação e personalização do sistema;
+
+- ### Kali Linux 2023.1 (Integração com Python 3.11 e Melhorias no Kernel 2023)
+
+  <img src="./images/kali2023.1.png" alt="Kali Linux 2021.1">
+
+  #### Características principais:
+
+  - Atualização para Python 3.11, trazendo maior desempenho;
+  - Melhor suporte a dispositivos móveis e ARM;
+  - Aprimoramentos na experiência do usuário, com novas personalizações;
+
+- ### Kali Linux 2024.4 (2024)
+
+  <img src="./images/kali2024.4.webp" alt="Kali Linux 2021.1">
+
+  #### Características principais:
+
+  - Atualização para Python 3.12 como versão padrão, melhorias de desempenho e novos recursos;
+  - Descontinuação das imagens i386 (32-bit): O suporte a imagens de 32 bits foi descontinuado, alinhando-se com a decisão do Debian;
+  - Expansão do suporte a arquiteturas ARM: O suporte para dispositivos ARM, como o Raspberry Pi e o Apple M1, foi aprimorado;
+  - Adicionadas novas ferramentas de pentesting;
+  - Aprimoramentos contínuos na segurança;
