@@ -203,10 +203,10 @@
 
 - ### Classic System Mac OS (1984-2001):
 
-  <img src="https://www.uzerine.com/domain/images/content/macos/Apple_Macintosh_Desktop.png" alt="Apple Mac OS Classic System 1 image" width="400" height="300"> | <img src="https://www.versionmuseum.com/images/operating-systems/classic-mac-os/webp/classic-mac-os%5E1987%5Esystem-4-desktop3.webp" alt="Apple Mac OS Classic System 4 image" width="400" height="300">
-  <img src="https://www.versionmuseum.com/images/operating-systems/classic-mac-os/webp/classic-mac-os%5E1988%5Esystem-6-desktop1.webp" alt="Apple Mac OS Classic System 6 image" width="400" height="300">
+  <img src="./images/appleSystem1.png" alt="Apple Mac OS Classic System 1 image" width="400" height="300"> | <img src="./images/appleSystem4.webp" alt="Apple Mac OS Classic System 4 image" width="400" height="300">
+  <img src="./images/appleSystem6.webp" alt="Apple Mac OS Classic System 6 image" width="400" height="300">
 
-  <img src="https://www.versionmuseum.com/images/operating-systems/classic-mac-os/webp/classic-mac-os%5E1991%5Esystem-7-desktop2.webp" alt="Apple Mac OS Classic System 7 image" width="400" height="300"> | <img src="https://www.versionmuseum.com/images/operating-systems/classic-mac-os/classic-mac-os%5E1997%5Esystem-8-about-this-computer.png" alt="Apple Mac OS Classic System 8 image" width="400" height="300"> <img src="https://www.versionmuseum.com/images/operating-systems/classic-mac-os/webp/classic-mac-os%5E1999%5Esystem-9-desktop3.webp" alt="Apple Mac OS Classic System 9 image" width="400" height="300">
+  <img src="./images/appleSystem7.webp" alt="Apple Mac OS Classic System 7 image" width="400" height="300"> | <img src="./images/appleSystem8.png" alt="Apple Mac OS Classic System 8 image" width="400" height="300"> <img src="./images/appleSystem9.webp" alt="Apple Mac OS Classic System 9 image" width="400" height="300">
 
   Primeira versão: **System 1.0 (1984)** | Última versão: **Mac OS 9 (1999)**
 
@@ -223,10 +223,10 @@
 
 - ### Mac OS X (2001-2012):
 
-  <img src="https://www.versionmuseum.com/images/operating-systems/mac-os-x/webp/mac-os-x%5E2001%5E10.0-about-mac.webp" alt="Apple Mac OS X 10.0 image" width="400" height="300"> | <img src="https://dn720002.ca.archive.org/0/items/mac-os-x-tiger-intelppc/10-4-Tiger-About-This-Mac.png" alt="Apple Mac OS X 10.4 image" width="400" height="300">
-  <img src="https://static.wikia.nocookie.net/ipod/images/8/89/2007-9_Mac_OS_X_10.5.8_%28Leopard%29_%28PPC%29.png/revision/latest?cb=20200617192416" alt="Apple Mac OS X 10.5 image" width="400" height="300">
+  <img src="./images/macOS10.webp" alt="Apple Mac OS X 10.0 image" width="400" height="300"> | <img src="./images/macOS10.4.png" alt="Apple Mac OS X 10.4 image" width="400" height="300">
+  <img src="./images/macOS10.5.webp" alt="Apple Mac OS X 10.5 image" width="400" height="300">
 
-  <img src="https://www.versionmuseum.com/images/operating-systems/mac-os-x/webp/mac-os-x%5E2009%5E10.6-snow-leopard-about-dialog.webp" alt="Apple Mac OS X 10.6 image" width="400" height="300"> | <img src="https://betawiki.net/images/thumb/1/15/Mac-OS-X-Lion-11A511-Desktop.png/1200px-Mac-OS-X-Lion-11A511-Desktop.png" alt="Apple Mac OS X 10.7 image" width="400" height="300"> <img src="https://static.wikia.nocookie.net/ipod/images/e/e9/2012-3_OS_X_10.8.5_%28Mountain_Lion%29.png/revision/latest?cb=20190315025354" alt="Apple Mac OS X 10.8 image" width="400" height="300">
+  <img src="./images/macOS10.6.webp" alt="Apple Mac OS X 10.6 image" width="400" height="300"> | <img src="./images/macOS10.7.png" alt="Apple Mac OS X 10.7 image" width="400" height="300"> <img src="./images/macOS10.8.webp alt="Apple Mac OS X 10.8 image" width="400" height="300">
 
   Primeira versão: **Mac OS X 10.0 "Cheetah" (2001)** | Última versão: **Mac OS 10.8 "Mountain Lion" (2012)**
 
@@ -244,8 +244,8 @@
 
 - ### OS X (2012-2016):
 
-  <img src="https://cdn3.sbnation.com/assets/3466397/tuk9fdbc.png" alt="Apple OS X 10.9 image" width="400" height="300"> | <img src="https://www.betaarchive.com/wiki/images/thumb/5/5f/OSXYosemiteDesktop.jpeg/1200px-OSXYosemiteDesktop.jpeg" alt="Apple OS X 10.10 image" width="400" height="300">
-  <img src="https://static.wikia.nocookie.net/ipod/images/c/c0/2015-6_OS_X_10.11.6_%28El_Capitan%29.png/revision/latest/scale-to-width-down/1200?cb=20190315034605" alt="Apple Mac OS X 10.5 image" width="400" height="300">
+  <img src="./images/OSX10.9.png" alt="Apple OS X 10.9 image" width="400" height="300"> | <img src="./images/OSX10.10.jpeg" alt="Apple OS X 10.10 image" width="400" height="300">
+  <img src="./images/OSX10.11.webp" alt="Apple Mac OS X 10.11 image" width="400" height="300">
 
   Primeira versão: **OS X 10.9 "Mavericks" (2013)** | Última versão: **OS 10.11 "El Capitan" (2015)**
 
