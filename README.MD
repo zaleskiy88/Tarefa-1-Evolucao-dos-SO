@@ -258,10 +258,10 @@
 
 - ### macOS (2016-Presente):
 
-  <img src="./images/macOS10.12.jpg" alt="Apple macOS X 10.12 image" width="450" height="300"> | <img src="./images/macos10.14.png" alt="Apple OS X 10.14 image" width="400" height="300">
-  <img src="./images/macOS10.15.jpg" alt="Apple Mac OS X 10.15 image" width="450" height="300">
+  <img src="./images/macOS10.12.jpg" alt="Apple macOS X 10.12 image" width="400" height="300"> | <img src="./images/macos10.14.png" alt="Apple OS X 10.14 image" width="400" height="300">
+  <img src="./images/macosCatalina.jpg" alt="Apple Mac OS X 10.15 image" width="400" height="300">
 
-  <img src="./images/macOS11.png" alt="Apple Mac OS X 11.0 image" width="450" height="300"> | <img src="./images/macOS13.png" alt="Apple Mac OS X 13 image" width="450" height="300"> <img src="./images/macOS14.png" alt="Apple Mac OS 14 image" width="450" height="300">
+  <img src="./images/macOS11.png" alt="Apple Mac OS X 11.0 image" width="400" height="300"> | <img src="./images/macOS13.png" alt="Apple Mac OS X 13 image" width="450" height="300"> <img src="./images/macOS14.png" alt="Apple Mac OS 14 image" width="400" height="300">
 
   Primeira versão: **macOS X 10.12 "Sierra" (2016)** | Corrente versão: **macOS 14 "Sonoma" (2015)**
 
