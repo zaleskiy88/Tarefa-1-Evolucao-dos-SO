@@ -4,7 +4,7 @@
 
 - ### Windows 1.0 (1985):
 
-  ![Microsoft Windows 1.0](https://1.bp.blogspot.com/-P4-TN-Majt4/Uj0ECvjqVsI/AAAAAAAAABk/cripyh9TyoI/s1600/lewindos3.png)
+  ![Microsoft Windows 1.0](./images/windows1.0.png)
 
   #### Características principais:
 
@@ -17,7 +17,7 @@
 
 - ### Windows 2.0 (1987):
 
-  ![Microsoft Windows 1.0](https://2.bp.blogspot.com/-ghFzxK3G6NI/VtNScTSbhJI/AAAAAAAAAGc/VFD7Pt_l3cs/s1600/win203.gif)
+  ![Microsoft Windows 1.0](./images/windows2.0.gif)
 
   #### Características principais:
 
@@ -28,7 +28,7 @@
 
 - ### Windows 3.0 (1990):
 
-  ![Microsoft Windows 3.0](https://ftpmirror.infania.net/sites/windows-nation.de/win3/win30.jpg)
+  ![Microsoft Windows 3.0](./images/windows3.0.jpg)
 
   #### Características principais:
 
@@ -39,7 +39,7 @@
 
 - ### Windows 3.1 (1992):
 
-  ![Microsoft Windows 3.1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeu0BRphpDC-_SP1W2dZyEsjoZK9RrSSJNeBDp9UH8Qw1HqQWQjPeWLeCKDDCt9-3QEnax5SQezo5bwGWmyzAqGsjBY6NYJ0ciI6jar1XhxaeMMYD6g3DTC1UySDT0_6wYGXjfc3EUsOU/s700/Win+3.1+Flourescent+Theme.JPG)
+  ![Microsoft Windows 3.1](./images/Win3.1.JPG)
 
   #### Características principais:
 
@@ -51,7 +51,7 @@
 
 - ### Windows NT 3.x (1993):
 
-  ![Microsoft Windows NT](https://static.wikia.nocookie.net/windows/images/9/9e/Winnt31.png/revision/latest?cb=20190908165336)
+  ![Microsoft Windows NT](./images/Winnt3.x)
 
   #### Características principais:
 
@@ -64,7 +64,7 @@
 
 - ### Windows 95 (1995):
 
-  ![Microsoft Windows 95](https://upload.wikimedia.org/wikipedia/it/6/6a/Windows95.PNG)
+  ![Microsoft Windows 95](./images/Windows95.png)
 
   #### Características principais:
 
@@ -77,7 +77,7 @@
 
 - ### Windows 98 (1998):
 
-  ![Microsoft Windows 98](https://networkencyclopedia.com/wp-content/uploads/2019/10/windows-98-desktop.png)
+  ![Microsoft Windows 98](./images/windows-98.webp)
 
   #### Características principais:
 
@@ -89,7 +89,7 @@
 
 - ### Windows 2000 (2000):
 
-  ![Microsoft Windows ME](https://pplware.sapo.pt/wp-content/uploads/2010/05/vbox7_2_wm.png)
+  ![Microsoft Windows ME](./images/win2000.png)
 
   #### Características principais:
 
@@ -100,7 +100,7 @@
 
 - ### Windows ME (Millenium Edition) (2000):
 
-  ![Microsoft Windows ME](https://chsosunal20161912551.wordpress.com/wp-content/uploads/2016/04/windowsme_b3_intro.gif)
+  ![Microsoft Windows ME](./images/windowsme.gif)
 
   #### Características principais:
 
@@ -111,7 +111,7 @@
 
 - ### Windows XP (2001):
 
-  ![Microsodt Windows ME](https://static.wikia.nocookie.net/windows/images/7/7f/Windows_XP_x64.jpg/revision/latest?cb=20060605091449)
+  ![Microsodt Windows ME](./images/WindowsXP.webp)
 
   #### Características principais:
 
@@ -126,7 +126,7 @@
 
 - ### Windows Vista (2007):
 
-  ![Microsoft Windows Vista](https://cdn.arstechnica.net/wp-content/uploads/2015/07/Screenshot-2015-07-22-09.46.36.jpg)
+  ![Microsoft Windows Vista](./images/winVista.jpg)
 
   #### Características principais:
 
@@ -137,7 +137,7 @@
 
 - ### Windows 7 (2009):
 
-  ![Microsoft Windows 7](https://blog.thinprint.com/uploads/tp/sites/6/2019/08/3194107102_d37b54d7e0_o.jpg)
+  ![Microsoft Windows 7](./images/win7.jpg)
 
   #### Características principais:
 
@@ -150,7 +150,7 @@
 
 - ### Windows 8 (2012):
 
-  ![Microsoft Windows 8](https://files.tecnoblog.net/wp-content/uploads/2012/08/desligar-windows-8.png)
+  ![Microsoft Windows 8](./images/win8.webp)
 
   #### Características principais:
 
@@ -162,7 +162,7 @@
 
 - ### Windows 8.1 (2013):
 
-  ![Microsoft Windows 8.1](https://windowsclub.com.br/wp-content/uploads/2014/04/Captura-de-Tela-55.jpg)
+  ![Microsoft Windows 8.1](./images/win8.1.jpg)
 
   #### Características principais:
 
@@ -174,7 +174,7 @@
 
 - ### Windows 10 (2015):
 
-  ![Microsoft Windows 10](https://windowsclub.com.br/wp-content/uploads/2014/04/Captura-de-Tela-55.jpg)
+  ![Microsoft Windows 10](./images/win10.jpg)
 
   #### Características principais:
 
@@ -187,7 +187,7 @@
 
 - ### Windows 11 (2021):
 
-  ![Microsoft Windows 11](https://us.v-cdn.net/6029997/uploads/E96SRZJ7PSHE/windows-11-how-to-use-widgets.png)
+  ![Microsoft Windows 11](./images/win11.webp)
 
   #### Características principais:
 
@@ -226,7 +226,7 @@
   <img src="./images/macOS10.webp" alt="Apple Mac OS X 10.0 image" width="400" height="300"> | <img src="./images/macOS10.4.png" alt="Apple Mac OS X 10.4 image" width="400" height="300">
   <img src="./images/macOS10.5.webp" alt="Apple Mac OS X 10.5 image" width="400" height="300">
 
-  <img src="./images/macOS10.6.webp" alt="Apple Mac OS X 10.6 image" width="400" height="300"> | <img src="./images/macOS10.7.png" alt="Apple Mac OS X 10.7 image" width="400" height="300"> <img src="./images/macOS10.8.webp alt="Apple Mac OS X 10.8 image" width="400" height="300">
+  <img src="./images/macOS10.6.webp" alt="Apple Mac OS X 10.6 image" width="400" height="300"> | <img src="./images/macOS10.7.png" alt="Apple Mac OS X 10.7 image" width="400" height="300"> <img src="./images/macOS10.8.webp" alt="Apple Mac OS X 10.8 image" width="400" height="300">
 
   Primeira versão: **Mac OS X 10.0 "Cheetah" (2001)** | Última versão: **Mac OS 10.8 "Mountain Lion" (2012)**
 
@@ -256,14 +256,14 @@
   - Introdução das atualizações gratuitas: a Apple deixou de cobrar pelas atualizações do SO a partir da versão Mavericks;
   - Integração com o iOS: Recursos como o Centro de Notificações, iMessage, Lembretes e Notas foram trazidos do iOS para o Mac, proporcionando uma experiência mais consistente entre os dispositivos da Apple;
 
-- ### macOS X (2016-Presente):
+- ### macOS (2016-Presente):
 
-  <img src="https://i.pcmag.com/imagery/articles/01gbZ61TsHUcRtzOZtG0Jsj-1..v1569470600.jpg" alt="Apple macOS X 10.12 image" width="400" height="300"> | <img src="https://dosdude1.com/mojave/tutorialimages/step13.png" alt="Apple OS X 10.10 image" width="400" height="300">
-  <img src="https://www.acex.com.au/wp-content/uploads/2020/09/CatalinaScreenShotBig.jpg" alt="Apple Mac OS X 10.5 image" width="400" height="300">
+  <img src="./images/macOS10.12.jpg" alt="Apple macOS X 10.12 image" width="450" height="300"> | <img src="./images/macos10.14.png" alt="Apple OS X 10.14 image" width="400" height="300">
+  <img src="./images/macOS10.15.jpg" alt="Apple Mac OS X 10.15 image" width="450" height="300">
 
-  <img src="https://forum.macmagazine.com.br/uploads/monthly_2020_11/1988928705_ScreenShot2020-11-13at02_51_56.png.c105146095d68b62bda6f3f80954c837.png" alt="Apple Mac OS X 11.0 image" width="400" height="300"> | <img src="https://miro.medium.com/v2/resize:fit:1400/1*oCo3D5hi0euv6PvQeH6jnQ.png" alt="Apple Mac OS X 10.7 image" width="400" height="300"> <img src="https://upload.wikimedia.org/wikipedia/it/thumb/e/ec/MacOS_Sonoma_screenshot.png/1200px-MacOS_Sonoma_screenshot.png" alt="Apple Mac OS X 10.8 image" width="400" height="300">
+  <img src="./images/macOS11.png" alt="Apple Mac OS X 11.0 image" width="450" height="300"> | <img src="./images/macOS13.png" alt="Apple Mac OS X 13 image" width="450" height="300"> <img src="./images/macOS14.png" alt="Apple Mac OS 14 image" width="450" height="300">
 
-  Primeira versão: **macOS X 10.12 "Sierra" (2016)** | Corrente versão: **macOS 10.11 "El Capitan" (2015)**
+  Primeira versão: **macOS X 10.12 "Sierra" (2016)** | Corrente versão: **macOS 14 "Sonoma" (2015)**
 
   #### Características principais:
 
